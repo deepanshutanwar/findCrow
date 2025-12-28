@@ -1,0 +1,2 @@
+source D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader/gdbinit/symbols
+source D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader/gdbinit/connect

@@ -1,0 +1,19 @@
+Command: ninja all
+[1/10] Performing build step for 'bootloader'
+[1/1] C:\Windows\system32\cmd.exe /C "cd /D D:\personal\projects\esp_findCrow\esp_ble_beacon\build\bootloader\esp-idf\esptool_py && C:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe C:/Espressif/frameworks/esp-idf-v5.5.1/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader/bootloader.bin"
+Bootloader binary size 0x6680 bytes. 0x980 bytes (8%) free.
+[2/10] No install step for 'bootloader'
+[3/10] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/ble_beacon.c.obj
+[4/10] Completed 'bootloader'
+[5/10] Linking C static library esp-idf\main\libmain.a
+[6/10] Generating esp-idf/esp_system/ld/sections.ld
+[7/10] Building C object CMakeFiles/ble_beacon.elf.dir/project_elf_src_esp32.c.obj
+[8/10] Linking CXX executable ble_beacon.elf
+[9/10] Generating binary image from built executable
+esptool.py v4.10.0
+Creating esp32 image...
+Merged 2 ELF sections
+Successfully created esp32 image.
+Generated D:/personal/projects/esp_findCrow/esp_ble_beacon/build/ble_beacon.bin
+[10/10] C:\Windows\system32\cmd.exe /C "cd /D D:\personal\projects\esp_findCrow\esp_ble_beacon\build\esp-idf\esptool_py && C:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe C:/Espressif/frameworks/esp-idf-v5.5.1/components/partition_table/check_sizes.py --offset 0x8000 partition --type app D:/personal/projects/esp_findCrow/esp_ble_beacon/build/partition_table/partition-table.bin D:/personal/projects/esp_findCrow/esp_ble_beacon/build/ble_beacon.bin"
+ble_beacon.bin binary size 0x358d0 bytes. Smallest app partition is 0x100000 bytes. 0xca730 bytes (79%) free.

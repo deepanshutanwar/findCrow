@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/personal/projects/esp_findCrow/esp_ble_beacon/build/CMakeFiles/bootloader
+D:/personal/projects/esp_findCrow/esp_ble_beacon/build/CMakeFiles/bootloader.rule
+D:/personal/projects/esp_findCrow/esp_ble_beacon/build/CMakeFiles/bootloader-complete.rule
+D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
