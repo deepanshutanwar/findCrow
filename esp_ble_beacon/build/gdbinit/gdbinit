@@ -1,2 +1,2 @@
-source D:/personal/projects/esp_findCrow/esp_ble_beacon/build/gdbinit/symbols
-source D:/personal/projects/esp_findCrow/esp_ble_beacon/build/gdbinit/connect
+source D:/personal/gitHub/findCrow/esp_ble_beacon/build/gdbinit/symbols
+source D:/personal/gitHub/findCrow/esp_ble_beacon/build/gdbinit/connect

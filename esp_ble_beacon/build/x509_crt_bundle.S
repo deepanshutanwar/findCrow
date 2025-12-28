@@ -1,4 +1,4 @@
-/* * Data converted from D:/personal/projects/esp_findCrow/esp_ble_beacon/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from D:/personal/gitHub/findCrow/esp_ble_beacon/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

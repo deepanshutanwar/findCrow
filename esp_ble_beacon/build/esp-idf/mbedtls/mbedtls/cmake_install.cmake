@@ -39,10 +39,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/personal/projects/esp_findCrow/esp_ble_beacon/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
-  include("D:/personal/projects/esp_findCrow/esp_ble_beacon/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
-  include("D:/personal/projects/esp_findCrow/esp_ble_beacon/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
-  include("D:/personal/projects/esp_findCrow/esp_ble_beacon/build/esp-idf/mbedtls/mbedtls/pkgconfig/cmake_install.cmake")
+  include("D:/personal/gitHub/findCrow/esp_ble_beacon/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
+  include("D:/personal/gitHub/findCrow/esp_ble_beacon/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
+  include("D:/personal/gitHub/findCrow/esp_ble_beacon/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
+  include("D:/personal/gitHub/findCrow/esp_ble_beacon/build/esp-idf/mbedtls/mbedtls/pkgconfig/cmake_install.cmake")
 
 endif()
 

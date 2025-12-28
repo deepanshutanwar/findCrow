@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/CMakeFiles/bootloader"
+			"file" : "D:/personal/gitHub/findCrow/esp_ble_beacon/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/CMakeFiles/bootloader.rule"
+			"file" : "D:/personal/gitHub/findCrow/esp_ble_beacon/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "D:/personal/gitHub/findCrow/esp_ble_beacon/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

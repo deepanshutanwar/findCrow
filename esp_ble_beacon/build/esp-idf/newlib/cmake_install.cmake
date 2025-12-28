@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/personal/projects/esp_findCrow/esp_ble_beacon/build/esp-idf/newlib/src/port/cmake_install.cmake")
+  include("D:/personal/gitHub/findCrow/esp_ble_beacon/build/esp-idf/newlib/src/port/cmake_install.cmake")
 endif()
 

@@ -10,18 +10,18 @@ if(NOT EXISTS "C:/Espressif/frameworks/esp-idf-v5.5.1/components/bootloader/subp
   file(MAKE_DIRECTORY "C:/Espressif/frameworks/esp-idf-v5.5.1/components/bootloader/subproject")
 endif()
 file(MAKE_DIRECTORY
-  "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader"
-  "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix"
-  "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/tmp"
-  "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp"
-  "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src"
-  "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp"
+  "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader"
+  "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix"
+  "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/tmp"
+  "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp"
+  "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src"
+  "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

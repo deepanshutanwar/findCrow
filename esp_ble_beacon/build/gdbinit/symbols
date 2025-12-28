@@ -18,8 +18,8 @@ end
 
 # Load bootloader symbols
 set confirm off
-    add-symbol-file D:/personal/projects/esp_findCrow/esp_ble_beacon/build/bootloader/bootloader.elf
+    add-symbol-file D:/personal/gitHub/findCrow/esp_ble_beacon/build/bootloader/bootloader.elf
 set confirm on
 
 # Load application symbols
-file D:/personal/projects/esp_findCrow/esp_ble_beacon/build/ble_beacon.elf
+file D:/personal/gitHub/findCrow/esp_ble_beacon/build/ble_beacon.elf

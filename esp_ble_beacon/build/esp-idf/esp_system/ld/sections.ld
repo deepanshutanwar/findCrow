@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: D:\personal\projects\esp_findCrow\esp_ble_beacon\build\esp-idf\esp_system\ld\sections.ld.in */
+/* Generated from: D:\personal\gitHub\findCrow\esp_ble_beacon\build\esp-idf\esp_system\ld\sections.ld.in */
 
 /*
 

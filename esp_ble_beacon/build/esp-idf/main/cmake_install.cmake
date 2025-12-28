@@ -1,4 +1,4 @@
-# Install script for directory: D:/personal/projects/esp_findCrow/esp_ble_beacon/main
+# Install script for directory: D:/personal/gitHub/findCrow/esp_ble_beacon/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
